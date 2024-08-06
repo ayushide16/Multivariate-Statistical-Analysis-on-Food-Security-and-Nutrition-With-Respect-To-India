@@ -23,6 +23,11 @@ This project aims to analyze the food security and nutrition status in India usi
 </ul>
 
 ## Objectives
-Understand the intricate dynamics of food security and nutrition in India.
-Provide insights for evidence-based policymaking.
-Offer a model for addressing food security challenges in other regions.
+<ul>
+  <li>Understand the intricate dynamics of food security and nutrition in India.</li>
+  <li>Provide insights for evidence-based policymaking.</li>
+  <li>Offer a model for addressing food security challenges in other regions.</li>
+</ul>
+
+## Contact
+ayushidey@example.com
